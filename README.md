@@ -13,7 +13,7 @@ The dataset has:
 - **Audio files**: Each participant recorded 6 stories – 3 true and 3 false.
 - **Labels**: Information like the language, whether the story is true or false, and ratings for the emotions in the story (like positivity and intensity).
 
-> **Note**: The dataset isn’t included here for confidentiality reasons, but you’ll find details on how to get and prepare it in the project files.
+> **Note**: The dataset isn’t included here for confidentiality reasons.
 
 ## **How I Did It**
 1. **Extracting Features**:
