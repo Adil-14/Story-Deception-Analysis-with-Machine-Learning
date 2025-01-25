@@ -26,9 +26,3 @@ The dataset has:
    - Tried out different machine learning models, such as Support Vector Machines (SVM), Logistic Regression, and Random Forest.
 4. **Evaluating the Results**:
    - Used metrics like accuracy, precision, recall, and F1-score to check how well the models performed.
-
-## **How to Run This Project**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
