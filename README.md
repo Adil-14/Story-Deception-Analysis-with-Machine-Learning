@@ -1,4 +1,4 @@
-# **Predicting Story Truth with Machine Learning**
+# **Story Deception Analysis with Machine Learning**
 
 This project is all about classifying stories as true or false using machine learning techniques. The dataset includes audio recordings of people narrating personal experiences, some real and some made up.
 
